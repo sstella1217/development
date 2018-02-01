@@ -1,13 +1,79 @@
 .container {
-	background-color: tan;
-	
+	background: url(../images/tabbkgnd.jpg) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	overflow: hidden;
+	width:100%;
 }
 
-.class {
-	max-width: 100%;
-}
+.logo {
+	width: 100%;
+	position: relative;
+	}
 
 img{
 	max-width: 100%;
+	padding-bottom: 5px;
 }
+
+nav{
+	max-width: 100%;
+
+}
+
+
+#left{
+
+	width:50%;
+	float:left;
+	padding-top: 10px;
+	font-family: sans-serif;
+}
+
+#right{
+	width:35%;
+	float:right;
+	padding-top: 10px;
+
+}
+
+.cpe{
+	color: red;
+}
+
+#streek{
+	color: #AF1B3F;
+}
+
+#bottom{
+	width:100%;
+	float:left;
+	font-family: sans-serif;
+
+}
+
+#line1 {
+   font-size: 18px;
+}
+
+p{
+	font-size: 14px;
+}
+
+.red{
+	color:red;
+	font-size: 18px;
+}
+
+#line2 {
+	font-style: italic;
+	font-size: 18px;
+}
+
+
+
+
+
 
