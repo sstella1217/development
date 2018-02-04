@@ -9,9 +9,25 @@
 }
 
 .logo {
+	background: url(../images/tabbkgnd.jpg) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	overflow: hidden;
 	width: 100%;
 	position: relative;
 	}
+
+#content{
+	background: url(../images/tabbkgnd.jpg) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	overflow: hidden;
+	width: 100%;
+}
 
 img{
 	max-width: 100%;
