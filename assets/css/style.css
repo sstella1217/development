@@ -240,4 +240,13 @@ body{
 		
 .navbar-brand{
 	font-size: 18px;
+	font:bold;
+	color: white;
+	
+	
+}
+
+.navbar{
+	background-color:black;
+
 }
