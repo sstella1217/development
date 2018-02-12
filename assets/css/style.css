@@ -94,7 +94,9 @@ body{
 
 .container{
 	width:100%;
+
 }
+
 
 #info{
 	text-align: center;
@@ -109,11 +111,13 @@ body{
 	max-width: 100%;
 	float:left;
 	margin-right:10px;
+	margin-top: 10px;
 }
 
 #about{
 	color:#cc0000;
 	float:none;
+	padding-top: 10px;
 	
 }
 
@@ -249,4 +253,8 @@ body{
 .navbar{
 	background-color:black;
 
+}
+
+.back {
+	background-color:white;
 }
